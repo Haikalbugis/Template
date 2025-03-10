@@ -19,7 +19,7 @@ npm install -g degit
 ### Clone repository tanpa git history:
 
 ```sh
-degit username/repository my-project
+degit https://github.com/Haikalbugis/Template.git
 ```
 
 Contoh:
